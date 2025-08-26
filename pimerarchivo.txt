@@ -1,0 +1,6 @@
+Bienvenidos! A este primer archivo de texto creado desde la plataforma VS Code con Python
+Este archivo será entretenido, pues aquí, contaremos historias...
+Comencemos
+Esta es una historia nunca antes contada.
+Esta es una historia nunca antes contada.
+Esta es una historia nunca antes contada.
