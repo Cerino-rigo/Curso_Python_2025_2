@@ -1,0 +1,6 @@
+venta_id,cliente_id,producto,cantidad,total_venta
+101,1,Laptop,1,1200.0
+102,2,Smartphone,2,1500.0
+103,3,Tablet,1,600.0
+104,4,Smartwatch,3,750.0
+105,5,Laptop,1,1250.0
